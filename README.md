@@ -41,4 +41,10 @@ Dưới đây là danh sách các thành viên đã đóng góp vào dự án n�
 ## 🛠️ Cách cài đặt và chạy
 1. Clone repository này về máy:
    ```bash
-   git clone https://github.com/kqviet/snake
+   git clone https://github.com/kqviet010/Snake.git
+   ```
+2. Build và chạy game (Linux)
+   ```bash
+   g++ snake.cpp -o snake
+   ./snake
+   ```
